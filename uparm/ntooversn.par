@@ -1,0 +1,4 @@
+basedir,s,a,"/home/astrorafael/ccd/2453980/",,,"Base directory"
+resolution,s,a,"762x511",,,"image resolution string (i.e. 796x520)"
+imglist,*s,h,"",,,
+mode,s,h,"q",,,

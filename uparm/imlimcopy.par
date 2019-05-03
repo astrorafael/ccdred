@@ -1,0 +1,4 @@
+input,s,a,"registered/762x511/NGC281_03_005.fit[3:760,3:510]",,,"Input images"
+output,s,a,"registered/762x511/NGC281_03_005.fit",,,"Output images or directory"
+verbose,b,h,yes,,,"Print operations performed?"
+mode,s,h,"ql",,,

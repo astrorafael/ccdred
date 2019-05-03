@@ -1,0 +1,10 @@
+images,s,a,"398x260_object",,,"Image list"
+keyword,s,h,,,,"keyword whose statistics are being calculated"
+min,r,h,0.004,,,"(output) min value"
+max,r,h,10.,,,"(output) max value"
+mean,r,h,5.0002105263158,,,"(output) average value"
+stddev,r,h,0.,,,"(output) standard deviation"
+N,i,h,38,,,"(output) sample size"
+errlist,*struct,h,"",,,
+imglist,*s,h,"",,,
+mode,s,h,"q",,,

@@ -1,0 +1,6 @@
+images,s,a,"reduced/762x511/*.fit",,,"CCD images to group"
+output,s,a,"762x511_",,,"Output root group filename"
+group,s,h,"ccdtype",position|title|date|ccdtype|subset,,"Group type"
+radius,r,h,60.,,,"Group position radius (arc sec)"
+ccdtype,s,h,"",,,"CCD image types to select"
+mode,s,h,"ql",,,
